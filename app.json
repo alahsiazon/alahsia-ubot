@@ -1,6 +1,6 @@
 {
-  "name": "One-Piece",
-  "description": "[One-Piece] Digunakan Jikalau Anda Gabut.",
+  "name": "alahsia-ubot",
+  "description": "[alahsia-ubot] Digunakan Jikalau Anda Gabut.",
   "logo": "https://giffiles.alphacoders.com/354/35459.gif",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/aldoaprilyan3/One-Piece",
+  "repository": "https://github.com/alahsiazon/alahsia-ubot",
   "telegram": "https://t.me/coklintoud",
   "success_url": "https://t.me/follars",
   "stack": "container",
@@ -87,7 +87,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "One Piece",
+      "value": "alahsia-ubot",
       "required": true
     },
     "ALIVE_NAME": {
@@ -113,7 +113,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Nama Kota Tempat Lu Tinggal.",
-      "value": "Padang",
+      "value": "Medan",
       "required": true
     },
     "LOGSPAMMER": {
