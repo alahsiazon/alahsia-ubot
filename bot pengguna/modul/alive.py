@@ -223,7 +223,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f" **               ℣ 𝐀 𝐋 𝐀 𝐇 𝐒 𝐈 𝐀 ℘            ** \n"
+        f" **               ℣ R Y U ℘            ** \n"
         f"\n__**{OP_TEKS_KUSTOM}**__\n"
         f"**────────✧❁✧────────**\n"
         f"**ᖫ ᴍʏ ꜱᴇɴꜱᴇɪ** \n"
@@ -262,7 +262,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**▬▬▬▬▬▬❙۩♛۩❙▬▬▬▬▬▬**\n"
-        f"     **♕ alahsia♕** \n\n"
+        f"     **♕Ryuzo♕** \n\n"
         f"❃ **Sensei**     \n   ➥ `{DEFAULTUSER}` \n"
         f"❃ **It's me** \n   ➥ `@{user.username}` \n"
         f"❃ **Telethon** \n   ➥ `Versi {version.__version__}` \n"
@@ -296,7 +296,7 @@ async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
     output = (
-        f"**ᴏɴᴇ ᴘɪᴇᴄᴇ ☠️**\n**❏ ᴏᴡɴᴇʀ : [ꜱʜᴀᴅᴏᴡ](t.me/RhitoSakai)**\n**❏ ɢɪᴛʜᴜʙ : [ᴏɴᴇ ᴘɪᴇᴄᴇ](https://github.com/aldoaprilyan3/One-Piece)**\n**❏ ꜱᴜᴘᴘᴏʀᴛ: [ᴛʜᴜɴᴅᴇʀ](t.me/xthunderlol)**\n**━━━━━━━━━━━━━━━━━━━**\n"
+        f"**Ryuzo ☠️**\n**❏ ᴏᴡɴᴇʀ : [ꜱʜᴀᴅᴏᴡ](t.me/RhitoSakai)**\n**❏ ɢɪᴛʜᴜʙ : [ᴏɴᴇ ᴘɪᴇᴄᴇ](https://github.com/aldoaprilyan3/One-Piece)**\n**❏ ꜱᴜᴘᴘᴏʀᴛ: [ᴛʜᴜɴᴅᴇʀ](t.me/xthunderlol)**\n**━━━━━━━━━━━━━━━━━━━**\n"
         f" **❏ Pengguna 👥:** \n"
         f"**• ɴᴀᴍᴇ :`{DEFAULTUSER}` \n**"
         f"**• ᴜꜱꜱᴇʀɴᴀᴍᴇ :`{user.username}` \n**"
